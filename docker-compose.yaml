@@ -3,4 +3,3 @@ services:
     build: .
     ports:
       - 80:80
-      - 22:22
